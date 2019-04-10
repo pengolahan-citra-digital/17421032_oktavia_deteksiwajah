@@ -1,0 +1,3 @@
+C:\Users\Blesscom\documents\visual studio 2010\Projects\DeteksiWajah1\DeteksiWajah1\obj\x86\Release\DeteksiWajah.Form1.resources
+C:\Users\Blesscom\documents\visual studio 2010\Projects\DeteksiWajah1\DeteksiWajah1\obj\x86\Release\DeteksiWajah.Properties.Resources.resources
+C:\Users\Blesscom\documents\visual studio 2010\Projects\DeteksiWajah1\DeteksiWajah1\obj\x86\Release\DeteksiWajah1.csproj.GenerateResource.Cache
